@@ -15,4 +15,3 @@ while palpite != numero_sorteado:
     else:
          print('chute um valor menor')
 print('fim do jogo')
-        
